@@ -31,7 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `node index.js`
 
-Use this command to start a server
+First, navigate to the guess-number-backend folder using the following command:
+
+cd guess-number-backend
+Then, use this command to start the server.
 
 ### `npm run eject`
 
